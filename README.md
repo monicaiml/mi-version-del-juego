@@ -78,15 +78,23 @@ el número máximo de vidas en cada partida.
 • Se incluyen capturas del proceso.
 
 📷 Capturas de pantalla
-![Creación repositorio vacío](./img/captura1.png)
 *Creación repositorio vacío*
+![Creación repositorio vacío](./img/captura1.png)
+*Clonación repositorio*
 ![Clonación repositorio](./img/captura2.png)
+*Creación nueva rama*
 ![Creación nueva rama](./img/captura3.png)
+*Abrir proyecto en IntelliJ Idea*
 ![Abrir proyecto en IntelliJ Idea](./img/captura4.png)
+*Una vez modificado, abrirlo en GitKraken*
 ![Una vez modificado,abrirlo en GitKraken](./img/captura5.png)
+*Preparación del Commit*
 ![Preparación del Commit](./img/captura6.png)
+*Commit*
 ![Commit](./img/captura7.png)
+*Pull Request*
 ![Pull Request](./img/captura8.png)
+*Ramas fusionadas*
 ![Ramas fusionadas](./img/captura9.png)
 
 🎮Ejecución juego
