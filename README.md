@@ -78,6 +78,8 @@ el número máximo de vidas en cada partida.
 • Se incluyen capturas del proceso.
 
 📷 Capturas de pantalla
+
+
 *Creación repositorio vacío*
 ![Creación repositorio vacío](./img/captura1.png)
 *Clonación repositorio*
