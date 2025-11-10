@@ -79,6 +79,7 @@ el número máximo de vidas en cada partida.
 
 📷 Capturas de pantalla
 ![Creación repositorio vacío](./img/captura1.png)
+*Creación repositorio vacío*
 ![Clonación repositorio](./img/captura2.png)
 ![Creación nueva rama](./img/captura3.png)
 ![Abrir proyecto en IntelliJ Idea](./img/captura4.png)
