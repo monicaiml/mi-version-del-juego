@@ -2,7 +2,7 @@
 
 🎮 Proyecto A-Game-to-Fork modificado por Isabel Monica Martinez Lopez
 
-🎮Descripción del Proyecto
+🎮¨Descripción del Proyecto
 
 El objetivo principal es hacer un fork (bifuración) del proyecto A-Game-to-Fork, para mejorar
 la lógica del juego o añadir funcionalidades y crear un repositorio propio donde se vea esto. 
@@ -39,7 +39,8 @@ En esta versión del juego he modificado:
 
 -Cloné el proyecto en local directamente desde GitKraken.
 
--Luego reemplacé el remoto por mi propio repositorio desde origin en GitKraken.  
+-Luego reemplacé el remoto por mi propio repositorio desde origin en GitKraken.
+  
 4.Creación de una nueva rama
 
 -Usando GitKraken, creé la rama funcion-juego para trabajar de forma
