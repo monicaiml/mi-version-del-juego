@@ -2,7 +2,7 @@
 
 🎮 Proyecto A-Game-to-Fork modificado por Isabel Monica Martinez Lopez
 
-🎮 ¨Descripción del Proyecto¨
+🎮 Descripción del Proyecto
 
 El objetivo principal es hacer un fork (bifuración) del proyecto A-Game-to-Fork, para mejorar
 la lógica del juego o añadir funcionalidades y crear un repositorio propio donde se vea esto. 
